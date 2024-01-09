@@ -1,0 +1,625 @@
+﻿
+
+Bug’ potentsial energiyasini kinetik energiyaga aylantirish xarakteriga ko’ra turbinalar necha turga bo’linadi? 
+{=aktiv, reaktiv;
+~  aktiv, reaktiv, kombinatsiyali;
+~  aktiv, reaktiv, umumlashtirilgan;
+~  kombinatsiyali va umlashtirilgan}
+
+Birinchi bug’ kuch qurilmasi qayerda va qochon topilgan?
+{=эр . ав. 120 yil Aleksandriya;
+~  эр . ав. 1900 yil Makedoniyada.
+~  эр. ав. III asr Vizantiyada;
+~  эр. ав  170 – 200 yil  Kadimgi Rimda;}
+
+Brank mashinasi qachon ixtiro qilindi?
+{=1629 yil;
+~  1806 - 1813 yil;
+~  1503 yil;
+~  173 yil.}
+
+Birinchi bug’ mashinasining (qurilmasining) ixtirochisi kim?
+{=Katta Geron;
+~  Anaksimandр;
+~  Polikarp.
+~  Brank;}
+
+Bug’ turbinasining dastlabki modeli qachon va qayerda yasaldi?
+{=1806 – 1813 yillarda Oltoyda Suzunsk zavodida;
+~  1806 – 1813 yilda Rimda;
+~  1713 – 1714 yilarda Germaniyada Sholdman zavodida;
+~  1844 yilda AKSH da Bulls fabrikantida}
+
+Bug’ turbinasi qachon va qayerda yasaldi?
+{=XIX asrning 30 yilda Nijne – Tagilda;
+~  XIX asrning 20 yilda Angliyaning Oksford universitetida;
+~  XIX asrning 20 yilda Ayova shtatida;
+~  XX asr boshlarida Avstraliyaning Sidney shaxrida.}
+
+Birinchi bor pog’onali bug’ turbinasini kim yasagan?
+{=1890 yilda Gustov Laval;
+~  1843 yilda Gustov Laval;
+~  1843 yil Geron Brank;
+~  1890 yil Geron Brank.}
+
+Bir pog’onali bug’ turbinasining (birinchi) quvvati qancha edi?
+{=5 ot kuchi;
+~  5 кВт;
+~  5 Joul/sek;
+~  35 ot kuchi.}
+
+Birinchi bug’ turbinasi necha qismdan iborat?
+{=4 qism; val, disk, parrak, soplo;
+~  3 qism; val, parrak, soplo;
+~  5 qism ; val, disk, parrak, kuzgalmas kism, soplo;
+~  6 qism; val, disk, parrak, kuzgalmas kism, soplo; yunaltiruvchi parrak.}
+
+Reaktiv tipdagi turbina loyixa konstruktsiyasi qachon va kim tomonidan ixtiro kilingan?
+{=1884 yilda ingliz muxandisi Parsons;
+~  1884 yilda Shved muxandisi Gustav Laval;
+~  1884 yilda Grek muxandisi Geron Katta;
+~  1913 yilda rus muxandisi Ryabokon.}
+
+1910 yil da aka – uka Yungsterlar qanday turbinani ixtiro qilishdi?
+{=Birinchi radial turbinani;
+~  Birinchi reaktiv turbinani; 
+~  Birinchi kup pog’onali,} 
+~  Aktiv turbinani;}
+
+Bosim pog’onalariga qarab turbinalar qanday turlarga bulinadi?
+{=Bir  va ko’p pog’onali;
+~  Aktiv va reaktiv pog’onali;
+~  Yuqri va past bosimli;
+~  fakat reaktiv pog’onali.}
+
+Bug’ oqimi yo’nalishiga ko’ra turbinalar necha turga bo’linadi?
+{=o’qli va radial; 
+~  aktiv va reaktiv;
+~  aktiv, o’qli, reaktiv.
+~  aksial, o’qli, reaktiv.}
+
+Qanday turbinalar bir valli deb yuritiladi?
+{=bitta generatorga ulangan va aloxida korpuslar vallari ketma – ket bir ukka joylashgan;
+~  bitta generatorga ulangan;
+~  aloxida korpuslar vallari ketma – ket bir ukka joylashgan;
+~  turli generatorlarga ulangan.}
+
+O’qli reaktiv turbinalar deb nimaga aytiladi?
+{=bug’ kengayish xar bir pog’onada yunaltiruvchi va ishchi parrak kanallari orasida bir xil darajada taksimlanadi;
+~  bug’ning potentsial energiyasi kinetik energiyaga parrakda aylanadi.
+~  bug’ning potentsial energiyasi kinetik energiyaga soploda aylanadi;
+~  ishchi parraklarda reaktsiyalanish oqibatida pogonadan pogonaga utadi}
+
+Kondensatsion turbinalar necha xil bo’ladi?
+{=regeneratsion va regeneratsiyasiz;
+~  to’la regeneratsion va kisman regeneratsiyasiz;
+~  to’la regeneratsion va to’la isitish maqsadi;
+~  aktiv, reaktiv.}
+
+Qanday turbinalar uta kritik parametrli turbinalar deb ataladi?
+{=ishlatilayotgan bug’ bosimi 235 ata va undan yuqori;
+~  ishlatilayotgan bug’ bosimi 225 ata va undan yuqori;
+~  ishlatilayotgan bug’ bosimi 200 ata va undan yuqori;
+~  ishlatilayotgan bug’ bosimi 40 ata va undan yukori.}
+
+Qanday turbinalar yuqori bosimli turbinalar deyiladi?
+{=100 ata va undan yuqori bosimli; 
+~  40 ata va undan yuqori bosimli; 
+~  70 ata va undan yuqori bosimli; 
+~  140 ata va undan yuqori bosimli.}
+
+Nostatsionar tipdagi turbinalar  qayerda qo’llaniladi?
+{=turbolokomativda;
+~  nasosda;
+~  ventilyatorda;
+~  energetikada.}
+
+Doimiy aylanish soniga ega bulgan barqaror turbinalar?
+{=elektrogenerator uzatmasi uchun muljallangan;
+~  temir yo’l transportida ishlatiladi;
+~  xavo surish mashinalari, ventilyatorlar, nasoslar uchun muljallangan.
+~  ventilyatorlar va nasoslar uchun mo’ljallangan.}
+
+Reaktiv turbinaning asosiy elementlari?
+{=Yo’naltiruvchi parrak, ishchi parrak;
+~  soplo, yo’naltiruvchi parrak, ishchi parrak;
+~  soplo, ishchi parraklar;
+~  soplo va val.}
+
+Yuqori bosimli qizdirgich qayerga joylashgan?
+{=ta‘minot nasosi va qozon o’rtasida.
+~  deaerator va ekonomayzer orasida;
+~  qozon va urta bosimli tsilindr orasida;
+~  deaerator va qozon o’rtasida;}
+
+Regenerativ qizdirgichlar necha turga bo’linadi?
+{=yuzali va aralash;
+~  yuzali va kontaktli;
+~  yuzali va orttirilgan bosimli;
+~  regenerativ va rekuperativ.} 
+
+Xozirda tarmoq suvi nimalar yordamida qizdirilmoqda?
+{=1,2,3 javoblar to’g’ri.
+~  suv qizdirish qozonlarida; 
+~  T va R tipidagi turbinalardan;
+~  Kondensatsion bloklardan;} 
+
+Konstruktiv tuzilishiga ko’ra tarmoq qizdirgichlari qanday joylashtiriladi?
+{=vertikal va gorizontal.
+~  vertikal; 
+~  gorizontal;
+~  qiya;}
+
+Aralash turdagi qizdirgichlar qanday bloklarda qo’llaniladi?
+{=past quvvatli
+~  yuqori quvvatli;
+~  o’rta quvvatli;
+~  yuqori va o’rta quvvatli.}
+
+Rikar – Nikoln sxemasiga kura qizdirgichlar qanday ulanadi?
+{=suv oqimi qizdirgichlarda aloxida qizdirilib, qozonga kirish joyida biriktiriladi; 
+~  suv oqimi qizdirgichlarda ketma –ket qizdirilib, qozonga uzatiladi;
+~  suv oqimi kombinatsiyalab, qizdirilib qozonga uzatiladi;
+~  suv oqimi bitta qizdirgichlar guruxida qizdirilib qozonga uzatiladi.}
+
+Violen sxemasi qanday ishlatiladi?
+{=suv oqimi qizdirgichlarda ketma –ket qizdirilib, qozonga uzatiladi;
+~  suv oqimi qizdirgichlarda aloxida qizdirilib, qozonga kirish joyida biriktiriladi;
+~  suv oqimi kombinatsiyalab, qizdirilib qozonga uzatiladi;
+~  suv oqimi bitta qizdirgichlar guruxida qizdirilib qozonga uzatiladi.}
+
+Bug’ turbinasining soddalashtirilgan sxemalari deganda nimalarni tushunasiz?
+{=Asosiy elementlar aniq tasvirlangan;
+~Barcha elementlar aniq tasvirlangan;
+~Elementlar vazifasi suzlar bilan ifodalanadi;
+~Bug’ olinmalari tasvirlanmaydi}
+
+Bug’ turbinasini printsipial sxemasiga kiruvchi elementlarni sanang?
+{=Issiqlik almashingich, turbina, elektrogenerator, bug’ generatori, qizdirgichlar, nasoslar;
+~  Issiqlik almashingich, turbina, elektrogenerator, bug’ generatori, qizdirgichlar, kompressor, nasoslar;
+~  Issiqlik almashingich, turbina, elektrogenerator, bug’ generatori, qizdirgichlar, nasoslar, suv – suv tipidagi qizdirgich;
+~  Ishga tushiruvchi dvigatel, Issiqlik almashingich, turbina, elektrogenerator, bug’ generatori, qizdirgichlar, nasoslar, suv – suv tipidagi qizdirgich.}
+
+Soplo nima?
+{=turbinaga bug’ning kirish yo’li;
+~  bug’ taqsimlagich;
+~  parrak;
+~  barabansimon jism.}  
+
+Egri kesimli soplo nimaga kerak?
+{=turbinaga kiruvchi bug’ning xarakatini parrakka moslash uchun;
+~  turbinaga kiruvchi bug’ning xarakatini tezlashtirish uchun;
+~  turbinaga kiruvchi bug’ning xarakatini sekinlashtirish uchun;
+~  u xech qayerda ishlatilmaydi.}
+
+Soplo qanday turlarga bulinadi?
+{=torayuvchi va kengayuvchi;
+~  qisqaruvchi va keng profilli;
+~  elastik, aylanuvchi va kengayuvchi; 
+~  elastik va aylanuvchi.}
+
+Turbinadagi issiqlik jarayonida ikt¬ nimani bildiradi?
+{=bug’ning izoentropik kengayishdan keyingi entalpiyasini;
+~  soplodan keyingi bug’ni entalpiyasini;
+~  ishlatilgan bug’ning entalpiyasini;
+~  kondensat entalpiyasin.}
+
+Turbinaning mexanik foydali ish koeffitsienti deb nimaga aytiladi?
+{=effektiv quvvatning ichki quvvatga nisbatiga;
+~  ichki quvvatning effektiv quvvatga kupaytmasiga;
+~  ichki quvvatning effektiv quvvatga nisbatiga;
+~  effektiv quvvatning nazariy quvvatga nisbatiga.}
+
+Turbinaning nisbiy effektiv foydali ish koeffitsienti deb nimaga aytiladi?
+{=effektiv quvvatning nazariy quvvatga nisbatiga.
+~effektiv quvvatning ichki quvvatga nisbatiga;
+~ichki quvvatning effektiv quvvatga kupaytmasiga;
+~ichki quvvatning effektiv quvvatga nisbatiga;}
+
+Klapandagi bosim yuqotilishi turbina ishlayotgan paytda necha % foizni tashkil qiladi?
+{=5 %;
+~  3 %;
+~  6 %;
+~  8%.}
+
+Ishlov berilgan soplo uchun tezlik koeffitsienti ( nechaga teng)?
+{=0,950,96;
+~  0,930,94;
+~  0,960,975;
+~  0,900,865.}
+Tezlik koeffitsienti   frezerlangan soplo uchun nechaga teng?
+{=0,960,975;
+~  0,950,96;
+~  0,930,94;
+~  0,900,865.}
+
+Ishchi parragidagi isrof uchun tezlik koeffitsienti   nechaga teng?
+{=0,960,975;
+~  0,950,96;
+~  0,930,94;
+~  0,98.}
+
+Tezlik koeffitsienti   asosan soploning qaysi ulchamiga bog’lik bo’ladi?
+{=uzunlik, balandlik va egrilik radiusiga.
+~  uzunligiga;
+~  egrilik radiusiga;
+~  balandligiga;}
+
+Ishqalanishda isrof bo’lgan issiqlik qanday aniqlanadi?
+{=ishqalanishda isrof bulgan quvvatning pog’onadagi bug’ sarfiga нисбатидан;
+~  ishkalanishda isrof bulgan quvvatning pog’onadagi bug’ sarfiga kupaytmasidan; 
+~  pog’onadagi bug’ sarfining ishqalanishda isrof bulgan quvvatga nisbatidan;.
+~  pog’onadagi bug’ sarfining ishqalanishda isrof bulgan quvvatga kupaytmasidan}
+
+Ko’p bosqichli turbinalarda pog’onalar soni nechta buladi?
+{=4 tadan 40 tagacha;
+~  3 tadan 30 tagacha;
+~  cheklanmagan;
+~  3 tadan 50 tagacha.}
+
+Ushbu formula qanday pog’onadagi issiqlik tushishini ifodalaydi?
+{=aksial reaktiv;
+~  radial reaktiv;
+~  aksial aktiv;
+~  radial aktiv.}   
+
+Regenerativ qizdirgichlarning printsipial tuzilmada 7 ta bulishi qanday turbinani bildiradi?
+{=o’ta kritik bosimli.
+~  past bosimli;
+~  o’rta bosimli;
+~  o’ta yuqori bosimli;}
+
+Soploli bug’ taqsimoti deb nimaga aytiladi?
+{=turbinaning 1 – rostlovchi pog’onasidagi ochiq soplolar sonini uzgartirish yuli  bilan taksimlash;
+~  turbina soplolari sonini uzgartirish yuli bilan taqsimlash;
+~  turbinaning 2 – va 3 – rostlovchi pog’onalaridagi ochiq soplolar sonini uzgartirish yuli  bilan taqsimlash;
+~  barcha rostlovchi pog’onalardagi ochiq soplolar sonini uzgartirish yuli  bilan taqsimlash.}
+
+Qanday quvvat nominal sanaladi?
+{=uzoq vaqt ishlab chiqarish imkoniga ega bo’lgan turbina quvvati;
+~  kam issiqlik isrofili va katta absolyut  foydali ish koeffitsientili turbina quvvati;
+~  salt ishlash rejimidagi maksimal kattalikkacha ishlab chiqariladigan jami quvvat;
+~  Ko’p issiqlik isrofili va katta absolyut  foydali ish koeffitsientili turbina quvvati.}
+
+Turbinadagi mexanik ish iste‘molchisi bo’lgan mexanizmlarni sanang?
+{=nasoslar, xavo surgich, kompressor va x.k.; 
+~  nasoslar, deaerator, kompressor va x.k.;
+~  nasoslar, xavo surgich, YuBK va PBKlar;
+~  nasoslar, YuBK va PBKlar}
+
+Zamonaviy turboagregatlarda rostlash sistemasida xarakatlanayotgan yog bosimi necha bargа teng?
+{=12 – 20 бар;
+~  14 – 22 бар;
+~  10 – 18 бар;
+~  16 – 24 бар.}
+
+Rostlashning statik tavsifnomasi nimaning xisobiga quriladi?
+{=bosim va aylanishlar soni;
+~  bosim va harorat;
+~  bosim va quvvat;
+~  quvvat va aylanishlar soni.}
+
+Turbinada qanday moy ta‘minoti sxemalari mavjud?
+{=tishli va vintli nasoslar yordamida amalga oshiriluvchi;
+~  xajmiy va markazdan qochma nasoslar yordamida amalga oshiriluvchi;
+~  markazdan qochma va tishli nasoslar yordamida amalga oshiriluvchi;
+~  podshipnikli va podshipniksiz moy sistemalari.}
+
+Podshipnikli va podshipniksiz moy sistemalarida podshipnikni moylash uchun muljallangan moyning bosimi necha barga teng?
+{=0,4 – 0,8 bar oralig’ida;
+~  1,8 – 2,0 bar oralig’ida;
+~  2 bar;
+~  1 bargacha.}
+
+K-800-240-2 turbinasining oxirgi pog’onasi  ishchi parraklari diametri nechaga teng?
+{=2480 мм;
+~  2500 мм;
+~  2580 мм;
+~  1980 м.} 
+
+IEMlarda qanday turbinalar ko’p qo’llaniladi?
+{=R, T va PT tipidagi;
+~  rostlanuvchi otborli kondensatsion va qarshi bosimli;
+~  T va PT tipidagi;
+~  Faqat qarshi bosimli.}
+
+Qarshi bosimli bitta rostlanuvchi bug’ otborili turbina markasini toping?
+{=Р – 12 – 35/5.
+~  К – 500 – 240;
+~  ПР – 6 – 35(10)5;
+~  Т – 100 – 130;}
+
+Qarshi bosimli turbinalardan nima maqsadda foydalaniladi?
+{=isitish va elektr energiyasi ishlab chiqarish.
+~  elektr energiyasi ishlab chiqarish;
+~  isitish;
+~  faqat isitish;}
+
+Qarshi bosimli turbinalardan foydalanilganda elektr energiyasi yetishmovchiligi qanday qoplanadi?
+{=parallel ishlovchi kondensatsion tipdagi turbina yordamida;
+~  parallel ishlovchi teplofikatsion tipdagi turbina yordamida;
+~  parallel ishlovchi PT tipidagi turbina yordamida;
+~  gaz turbina qurilmasi yordamida.}
+
+R tipidagi turbinalarda rostlash sistemasiga moy qanday qurilma yordamida uzatiladi?
+{=yordamchi turbonasoslar yordamida;
+~  porshenli servomotor yordamida;
+~  markazdan qochma regulyator yordamida;
+~  gidravlik tizim orqali.}
+
+Simens – Shukkert turbinasi qanday tipdagi turbinalar guruxiga kiradi?
+{=radial;
+~  aksial;
+~  reaktiv;
+~  aktiv.}
+
+T-25-90 rusumli bug’ turbinasida qanday bug’ taqsimotidan foydalanilgan?
+{=soploli;
+~  drosselli;
+~  aylanma;
+~  parrakli. Yo’naltiruvchi}
+
+Gaz turbinalari qaysi xususiyatlari bilan bug’ turbinalaridan farqlanadi?
+{=kichik gabariti va oson ishlatilishi bilan;
+~  tez ishga tushirilmasligi;
+~  sovituvchi suvning ko’p isrof bo’lishi;
+~  xizmatchi personal sonining ko’pligi}
+
+Turg’un (statsionar) gaz turbina qurilmalari qanday turlanadi?
+{=energetik, uzatmali, utilizatsion, texnologik, atom;
+~  energetik, uzatmali, utilizatsion, texnologik, bir tsiklli;
+~  energetik, uzatmali, bir tsiklli, kup tsiklli;
+~  utilizatsion, texnologik, bir tsiklli.}
+
+Brank mashinasi qachon ixtiro kilindi?
+{=1629 yil;
+~  1806 - 1813 yil;
+~  1503 yil
+~  173 yil;}
+
+Bug’ turbinali qurilmalarning printsipial sxemasida yukori bosimli qizdirgich kayerda joylashtiriladi?
+{=ta‘minot nasosi va qozon urtasida;
+~  qozon va urta bosimli tsilindr orasida;
+~  deaerator va qozon urtasida;
+~  deaerator va ekonomayzer orasida}
+
+Regenerativ qizdirgichlar necha turga bulinadi?
+{=yuzali va aralash;
+~  yuzali va kontaktli;
+~  yuzali va orttirilgan bosimli;
+~  regenerativ va rekuperativ;}
+
+Ishqalanishda isrof bo’lgan issiqlik qanday aniqlanadi?
+{=ishqalanishda isrof bo’lgan quvvatning pog’onadagi bug’ sarfiga nisbatidan;
+~  ishqalanishda isrof bulgan quvvatning pog’onadagi bug’ sarfiga kupaytmasidan;
+~  pog’onadagi bug’ sarfining ishkalanishda isrof bulgan quvvatga nisbatidan;
+~  pog’onadagi bug’ sarfining ishqalanishda isrof bulgan quvvatga kupaytmasidan;}
+
+Mexanik foydali ish koeffitsienti deb nimaga aytiladi?
+{=effektiv quvvatning ichki quvvatga nisbatiga;
+~  ichki quvvatning effektiv quvvatga kupaytmasiga;
+~  ichki quvvatning effektiv quvvatga nisbatiga;
+~  effektiv quvvatning nazariy quvvatga nisbatiga;}
+
+Quyida bayon etilgan fikrlarning qaysi biri noto‘g‘ri?
+{=Qaynayotgan suv ichida paydo bo‘lgan to‘yingan bug‘ bosimi tashqi bosimga tengbo‘ladi
+~  Qaynash – suyuqlikning to‘la sirti bo‘yicha bug‘lanish jarayonidir.
+~  Suyuqlik molekulalarining gaz xolatiga utish jarayoni bug‘lanish deb ataladi
+~  Kondensatsiya – bug‘lanishga teskari jarayondir}
+
+Bug‘ turbinali qurilmaning asosiy termodinamik tsikli qanday nomlanadi?
+{=Renkin tsikli
+~  Regenerativ tsikl
+~  Dizel tsikli
+~  Karno tsikli}
+
+Drossellanish jarayonida ideal gazning xarorati qanday o‘zgaradi?
+{=kamayadi
+~  xarorati ortadi
+~  o‘zgaradi
+~  o‘zgarmaydi}
+
+Bir pog‘onali kompressor yordamida gazni qaysi bosimgacha siqish mumkin? 
+{=6 – 10 bar
+~  200 bar
+~  20 bar
+~  800 – 1000 bar}
+
+Nemis injeneri Otto tomonidan benzinli dvigatel qachon yaratilgan?
+{=1824 y
+~  1903 y
+~  1877 y
+~  1862 y}
+
+Dunyoda birinchi AES qachon qurilgan?
+{=1954 y
+~  1970 y
+~  1947 y
+~  1904 y}
+
+Egri kesimli soplo nimaga kerak?
+{=turbinaga kiruvchi bugning xarakatini tezlashtirish uchun
+~  turbinaga kiruvchi bugning xarakatini parrakka moslash uchun;
+~  turbinaga kiruvchi bugning xarakatini parrakka moslash uchun;
+~  u xech qayerda ishlatilmaydi.}
+
+Soplo qanday turlarga bo’linadi?
+{=torayuvchi va kengayuvchi;
+~  qisqaruvchi va keng profilli;
+~  elastik, aylanuvchi va kengayuvchi;
+~  elastik va aylanuvchi.}
+
+Bug’ potentsial energiyasini kinetik energiyaga aylantirish xarakteriga ko’ra turbinalar necha turga bo’linadi?
+{=aktiv, reaktiv;
+~  aktiv, reaktiv, kombinatsiyali;
+~  aktiv, reaktiv, umumlashtirilgan;
+~  kombinatsiyali va umumlashtirilgan}
+
+Birinchi bug’ kuch qurilmasi qayerda va qochon topilgan?
+{=er . av. 120 yil Aleksandriya;
+~  er. av. III asr Vizantiyada;
+~  er. av  170 – 200 yil  Kadimgi Rimda;
+~  er . av. 1900 yil Makedoniyada;}
+
+Brank mashinasi kachon ixtiro qilindi?
+{=1806 - 1813 yil;
+~  1503 yil; 
+~  173 yil;
+~  1913 yil.}
+
+Bug’ turbinasi qachon va qayerda yasaldi?
+{=XIX asrning 20 yilda Ayova shtatida;
+~  XIX asrning 20 yilda Angliyaning Oksford universitetida; 
+~  XIX asrning 30 yilda Nijne – Tagilda;
+~  XX asr boshlarida Avstraliyaning Sidney shaxrida;}
+
+O’lik bo’shliqning nisbiy hajmi qanday oraliqda o’zgaradi?
+{=0,025 dan 0,06 gacha 
+~  0,25 dan 0,6 gacha 
+~  0,25 dan 6 gacha
+~  6 dan 25 gacha}
+
+Zamonaviy gaz turbina qurilmalarida turbinaga kirayotgan gazlarning harorati qancha haroratda bo’ladi?
+{=1100-12500С
+~  1500-17500С
+~  1800-18500С
+~  1900-19500С}
+
+Bug'-gaz qurilmasining samarali FIK nechi foizga ga yetadi?
+{=60-63%
+~  50-53%
+~  75-80 %
+~  85-90%}
+
+Turbo to'g'ri oqimli dvigatellar , raketali-to'g'ri oqimli dvigatellar , raketali-turbinali dvigatellar………. Quyidagi sanab  o’tilganlar reaktiv dvigitelning qanday turiga kiradi?
+{=raketali dvigatellari
+~  kombinasiyalashgan dvigatellar
+~  havoli-reaktiv dvigatellar
+~  gipertovushli to'g'ri oqimli}
+
+Kompressorsiz dvigatellar-to'g'ri oqimli havoli-reaktiv dvigatellar , yuqori tovushli to'g'ri oqimli , gipertovushli to'g'ri oqimli , pulsasiyalanovchi havoli-reaktiv dvigatellar  va gaz turbinali dvigatellar……. Quyidagi sanab  o’tilganlar reaktiv dvigitelning qanday turiga kiradi?
+{=kombinasiyalashgan dvigatellar
+~  raketali dvigatellari
+~  havoli-reaktiv dvigatellar
+~  gipertovushli to'g'ri oqimli}
+
+Raketali dvigatellar qo'llanilayotgan yoqilg'ining turi bo'yicha qanday turi mavjud?
+{=gidro reaksiyalanuvchi, elektr raketali dvigatellar, gazsimon yoqilg’ili
+~  qattiq yoqilg'ili, suyuq yoqilg'ili, yadroviy, gazsimon yoqilg’ili
+~  qattiq yoqilg'ili, suyuq yoqilg'ili, yadroviy, gidro reaksiyalanuvchi, elektr raketali dvigatellar
+~  elektr raketali dvigatellar  gazsimon yoqilg’ili,}
+
+Reaktiv dvigitellar qanday turlarga bo’linadi?
+{=gipertovushli to'g'ri oqimli, pulsasiyalanovchi havoli-reaktiv dvigatellar, kombinasiyalashgan dvigatellar
+~  reaktiv dvigatellar, raketali dvigatellari, havoli-reaktiv dvigatellar
+~  to’g’ri oqimli reaktiv dvigatellar, raketali dvigatellari, kombinasiyalashgan dvigatellar
+~  havoli-reaktiv dvigatellar, raketali dvigatellari, kombinasiyalashgan dvigatellar}
+
+Barcha reaktiv dvigitellarni nechta sinfga ajratish mumkin?
+{=3
+~  2
+~  4
+~  5}
+
+Gaz turbinali qurilmasini qaysi energetik qurilma bilan taqqoslash mumkin?
+{=bug’ turbina
+~  compressor
+~  ichki yonuv dvigiteli
+~  sovitish qurilmasi}
+
+O’zgarmas hajmda issiqlik uzatiluvchi gaz turbina qurilmasi qanday siklda ishlaydi?
+{=Brayton 
+~  Karno
+~  Gemfri
+~  Renkin}
+
+O’zgarmas bosimda issiqlik uzatiluvchi gaz turbine qurilmasi qanday siklda ishlaydi?
+{=Gemfri
+~  Karno
+~  Brayton
+~  Renkin}
+
+Gaz turbina qurilmalari qanday siklda  ishlaydi?
+{=Brayton va Gemfri
+~  Karno va Renkin
+~  Dizel va Trinkler
+~  Renkin siklida}
+
+Gaz turbina qurilmalarida ishchi jismning o’rtacha tezligi porshenli dvigitellarnikiga qaraganda necha marta yuqori bo’ladi?
+{=150-200 marta
+~  100-150 marta
+~  50-100 marta
+~  50-80 marta}
+
+Ko’p pog’onali kompressorlar nima maqsadda qo’llaniladi?
+{=yuqori harorat olish uchun
+~  past bosimli gaz olish uchun
+~  yuqori bosimli gaz olish uchun
+~  past harorat olish uchun}
+
+O’lik bo’shliqning nisbiy hajmi qanday oraliqda o’zgaradi?
+{=0,025 dan 0,06 gacha 
+~  0,25 dan 0,6 gacha
+~  0,25 dan 6 gacha
+~  6 dan 25 gacha}
+
+О‘qiy kompressorlarda bitta pog‘onada bosimlar nisbati qancha bо‘ladi?
+{=1,151,20 
+~  1,11,2
+~  1,52,0
+~  1,01,1}
+
+Kо‘p pog‘onali kompressorlarni oraliq sovitishda sovitgichlar nechta pog‘onadan keyin о‘rnatiladi?
+{=4-5
+~  1-2
+~  2-3
+~  2-4}
+
+Markazdan qochma kompressorlardan chiqayotgan gazning tezligi qancha bо‘ladi?
+{=50 m/s 
+~  40 m/s
+~  30 m/s
+~  20 m/s}
+
+Markazdan qochma kompressorlarda bitta parrak ishlaganda bosimlar nisbati qancha bо‘ladi?
+{=1,62 
+~  1,61,8
+~  1,01,2
+~  1,41,6}
+
+О‘qiy kompressorlarda rotorning aylanish tezligi qanchaga yetadi?
+{=200 m/s
+~  300 m/s 
+~  100 m/s
+~  400 m/s}
+
+О‘qiy kompressorlarda FIK ning qiymati qancha bо‘ladi?
+{=0,850,89 
+~  0,80,9
+~  0,90,92 
+~  0,940,95}
+
+Uzatilayotgan gazning miqdori bо‘yicha kompressorlar necha turga bо‘linadi?
+{=3
+~  4
+~  6
+~  5}
+
+Yuqori bosimli kompressorlarda oxirgi bosimning qiymati qancha?
+{=15 MPa gacha 
+~  100 MPa gacha
+~  70 MPa gacha
+~  85 MPa gacha}
+
+О‘rta bosimli kompressorlarda oxirgi bosimning qiymati qancha?
+{=1,510 MPa gacha
+~  15 MPa gacha 
+~  0,5 MPa gacha
+~  15 MPa gacha}
+
+Kompressor qurilmasi ishlash prinsipi bо‘yicha qanday turlarga bо‘linadi?
+{=hajmiy va dinamik 
+~  о‘qiy va kurakli 
+~  porsheni va kurakli 
+~  markazdan qochma va porshenli}
+
